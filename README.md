@@ -4,7 +4,7 @@ Login, Register, Reset Password with Firebase
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2019/03/tutorial-login-register-dan-forgot.html
 
-****If you use the Source Code, please make sure to credit and backlink to Azhar Rivaldi***
+****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
 ## 📄 License
 
